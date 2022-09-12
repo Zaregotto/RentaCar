@@ -1,0 +1,92 @@
+
+.find__cars-left{
+    background: linear-gradient(rgb(249, 168, 38, 0.9), rgb(249, 168, 38, 0.9)), url('../assets/all-images/passatB7.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 65px 35px;
+}
+
+.find__cars-left h2{
+    font-weight: 600;
+    font-size: 2.8rem;
+}
+
+.form__group{
+    width: 30%;
+    margin-bottom: 0;
+}
+
+.form__group input{
+    width: 100%;
+    border: 1px solid darkslategray;
+    padding: 8px 12px;
+    outline: none;
+}
+
+.form__group input::placeholder{
+    color: #828080;
+}
+
+.form{
+    background: white;
+    padding-top: 55px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.select__group{
+    width: 30%;
+}
+
+.select__group select{
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid darkslategray;
+    outline: none;
+    color: gray;
+}
+
+.hero__slider-section{
+    position: relative;
+    z-index: 10;
+    margin-bottom: 200px;
+}
+
+.hero__form{
+    position: absolute;
+    bottom: -150px;
+    z-index: 11;
+    width: 100%;
+}
+
+.form__row{
+    background: white;
+    box-shadow: 5px 5px 15px -5px gray;
+}
+
+.journey__time::before{
+    content: "Journey time";
+    margin-right: 0.8rem;
+    color: #828080;
+}
+
+.find__car-btn {
+    color: white;
+    padding: 8px 15px;
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+.form__group button{
+    background: blue;
+    color: white;
+    padding: 8px 15px;
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+

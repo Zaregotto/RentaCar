@@ -1,0 +1,17 @@
+
+
+
+.service__item span img{
+    font-size: 2.5rem;
+    color: #f3b23a;
+}
+
+.service__item h6{
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: .3s;
+}
+
+.service__item h6:hover{
+    color: #f3b23a;
+}
